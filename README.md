@@ -1,7 +1,7 @@
 # Vehicle Detection
 
 
-Check out the [writeup template](https://github.com/udacity/CarND-Vehicle-Detection/blob/master/writeup_template.md) for this project and use it as a starting point for creating your own writeup.  
+Check out the 'Write Up.pdf' for this project and use it as a starting point for creating your own writeup.  
 
 The Project
 ---
